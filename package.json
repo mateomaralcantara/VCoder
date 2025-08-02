@@ -1,5 +1,5 @@
 {
-  "name": "code-oss-dev",
+  "name": "VCODER",
   "version": "1.103.0",
   "distro": "6126a5463c7c181514214c54d1e3d084a1e8d2d1",
   "author": {
@@ -147,6 +147,8 @@
     "@vscode/v8-heap-parser": "^0.1.0",
     "@vscode/vscode-perf": "^0.0.19",
     "@webgpu/types": "^0.1.44",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
     "ansi-colors": "^3.2.3",
     "asar": "^3.0.3",
     "chromium-pickle-js": "^0.2.0",
